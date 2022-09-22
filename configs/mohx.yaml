@@ -1,0 +1,9 @@
+DATA:
+  max_left_len: 25
+  max_right_len: 70
+  use_pos: False
+MODEL:
+  first_last_avg: False
+TRAIN:
+  class_weight: 1
+  train_batch_size: 16

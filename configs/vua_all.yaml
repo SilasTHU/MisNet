@@ -1,0 +1,8 @@
+DATA:
+  max_left_len: 135
+  max_right_len: 90
+MODEL:
+  first_last_avg: True
+TRAIN:
+  train_batch_size: 64
+  val_batch_size: 64
