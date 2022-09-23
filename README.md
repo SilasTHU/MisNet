@@ -1,4 +1,4 @@
-This is the official code of COLING 2022 paper *Metaphor Detection from Linguistics Enhanced Siamese Network*.
+This is the official code of COLING 2022 paper *Metaphor Detection via Linguistics Enhanced Siamese Network*.
 
 #### How to train？
 Notice: to train on VUA All and VUA Verb, you need at least 20GB memory of GPU.
