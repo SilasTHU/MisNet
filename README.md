@@ -18,7 +18,13 @@ Notice: to train on VUA All and VUA Verb, you need at least 20GB memory of GPU.
    ```bash
    python main_vua_verb.py
    ```
+   
+   On MOH-X:
 
+   ```bash
+   python main_mohx.py
+   ```
+   
 #### How to reproduce our results?
 
 1. Download our released model weights from https://drive.google.com/file/d/1g4asL3-lAuTUMPfMP98RMGXRVQoKVRc5/view?usp=sharing and put in the checkpoints directory.
